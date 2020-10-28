@@ -4,7 +4,8 @@
   "description": "Tutorial de Express.js da Medium: https://medium.com/@makinhs/another-expressjs-api-tutorial-for-2020-part-01-hello-world-969d3280d4c0",
   "main": "dist/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.js"
   },
   "keywords": [
     "Expressjs",
