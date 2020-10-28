@@ -11,5 +11,8 @@
     "Nodejs"
   ],
   "author": "Yago Lucas de Souza Freitas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
